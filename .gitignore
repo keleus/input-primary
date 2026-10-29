@@ -1,0 +1,22 @@
+# Build output
+build/
+*.app
+.build/
+DerivedData/
+
+# Xcode / SwiftPM
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+.swiftpm/
+
+# macOS
+.DS_Store
+._*
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Claude Code local settings
+.claude/settings.local.json
